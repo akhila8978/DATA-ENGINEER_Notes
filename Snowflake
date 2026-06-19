@@ -1,1 +1,13 @@
 
+# ❄️ Snowflake Notes
+
+| Day | Topic | File | Status |
+|-----|-------|------|--------|
+| Day 1 | Architecture + VARIANT + Cost Control | [Day1_Architecture_VARIANT_Cost.md](./Day1_Architecture_VARIANT_Cost.md) | ✅ Done |
+| Day 2 | CDC — Streams + MERGE | [Day2_Streams_CDC_MERGE.md](./Day2_Streams_CDC_MERGE.md) | ✅ Done |
+| Day 3 | Tasks + Pipeline Automation | [Day3_Tasks_Pipeline.md](./Day3_Tasks_Pipeline.md) | ✅ Done |
+| Day 4 | Performance + Snowpark + Cortex | [Day4_Performance_Snowpark_Cortex.md](./Day4_Performance_Snowpark_Cortex.md) | 🔒 Pending |
+| Day 5 | RBAC + Data Sharing + Snowpipe | [Day5_RBAC_DataSharing_Snowpipe.md](./Day5_RBAC_DataSharing_Snowpipe.md) | 🔒 Pending |
+| Project 1 | CDC Pipeline (Production Grade) | [Project1_CDC_Pipeline.md](./Project1_CDC_Pipeline.md) | 🔒 Pending |
+
+[← Back to Main Index](../README.md)
